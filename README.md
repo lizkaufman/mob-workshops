@@ -11,3 +11,7 @@
 ## Objects
 
 - [Object Practice](./objects/1.md)
+
+## Arrays
+
+- [Arrays Practice](./arrays/1.md)

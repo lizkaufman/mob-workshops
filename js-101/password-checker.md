@@ -108,3 +108,31 @@ Next steps...
 - Let the user know how many attempts they have left.
 - Delete the code (or parts of) and practice remembering what you did and writing it out again, this will really help embed your new skills.
 - Let your imagination run wild and make something else using the same logic.
+
+<details>
+<summary>answer</summary>
+
+```js
+const password = "Password1!";
+const secret = "I've never watched Star Wars";
+
+function authenticateUser() {
+  let attempts = 0;
+  while (attempts < 3) {
+    const input = prompt("Whats the password?");
+    if (input === password) {
+      return true;
+    }
+    attempts++;
+  }
+  return false;
+}
+
+let isLoggedIn = authenticateUser();
+
+if (isLoggedIn) {
+  console.log(secret);
+}
+```
+
+</details>

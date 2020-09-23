@@ -8,19 +8,7 @@ Visit [code wars](https://www.codewars.com/join?language=javascript) and fix the
 
 To be completed as a pair, each 5 mins switch who is navigating and who is driving. The driver should be sharing their screen and the navigator should be talking. Use [the google timer](https://www.google.com/search?q=timer to help you stick to 5 mins intervals!
 
-## 1. If/Else Syntax Debug - Getting used to codewars
-
-Fix the syntax to pass the tests!
-
-- [Kata here](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)
-
-## 2. Function Syntax Debug - Getting used to codewars
-
-Fix the syntax to pass the tests!
-
-- [Kata here](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/train/javascript)
-
-## 3. The wide mouth frog
+## 1. The wide mouth frog
 
 You will have all the skills necessary to do this kata. Once navigating to the page you will find an empty function called `hello` like this...
 
@@ -59,9 +47,21 @@ Once all the tests pass when you press `TEST`, and your are happy that your code
 
 - [Wide mouthed frog here!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
 
+## 2. If/Else Syntax Debug - Getting used to codewars
+
+Fix the syntax to pass the tests!
+
+- [Kata here](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)
+
+## 3. Function Syntax Debug - Getting used to codewars
+
+Fix the syntax to pass the tests!
+
+- [Kata here](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/train/javascript)
+
 ## 4. Hello Name or World
 
-Try the same pattern with this kata. You
+This one is a slightly more complex and you will need to lookup changing the casing of strings to pass all the tests. Give it a go!
 
 - [Hello name or world!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)
 

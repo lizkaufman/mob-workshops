@@ -102,12 +102,57 @@ Our task is to translate the following code blocks into JavaScript.
 
 ### Task 1
 
-![](./images/my-fav-number.png)
+![](../images/my-fav-number.png)
+
+<details>
+<summary>Answer</summary>
+
+```js
+let myFavNumber = 80;
+
+if (myFaveNumber === 5) {
+  console.log("My favorite number is 5 too!");
+}
+```
+
+</details>
 
 ### Task 2
 
-![](./images/whats-your-name.png)
+![](../images/whats-your-name.png)
+
+<details>
+<summary>Answer</summary>
+
+```js
+let answer = prompt("What's your name?");
+
+if (answer === "Ben") {
+  console.log("That's my name too!");
+} else {
+  console.log(`${answer}?! That's a silly name...`);
+}
+```
+
+</details>
 
 ### Task 3
 
-![](./images/weather.png)
+![](../images/weather.png)
+
+<details>
+<summary>Answer</summary>
+
+```js
+let weatherType = "raining";
+
+if (weatherType === "raining") {
+  console.log("Take an umbrella!");
+} else if (weatherType === "raining") {
+  console.log("Don't forget suncream!");
+} else {
+  console.log("Must be a normal, grey, nondescript day!");
+}
+```
+
+</details>

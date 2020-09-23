@@ -6,7 +6,7 @@ Visit [code wars](https://www.codewars.com/join?language=javascript) and fix the
 
 ## Task 2
 
-To be completed as a pair, each 5 mins switch who is navigating and who is driving. The driver should be sharing their screen and the navigator should be talking. Use [the google timer](https://www.google.com/search?q=timer to help you stick to 5 mins intervals!
+To be completed as a pair, each 5 mins switch who is navigating and who is driving. The driver should be sharing their screen and the navigator should be talking. Use [the google timer](https://www.google.com/search?q=timer) to help you stick to 5 mins intervals!
 
 ## 1. The wide mouth frog
 

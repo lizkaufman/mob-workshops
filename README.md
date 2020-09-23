@@ -16,3 +16,7 @@
 
 - [Arrays Practice](./arrays/1.md)
 - [Quiz Task](./arrays/quiz-task.md)
+
+## Day 3
+
+- [codewars](./day3/code-wars.md)

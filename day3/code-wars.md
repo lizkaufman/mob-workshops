@@ -10,7 +10,7 @@ To be completed as a pair, each 5 mins switch who is navigating and who is drivi
 
 ## 1. The wide mouth frog
 
-You will have all the skills necessary to do this kata. Once navigating to the page you will find an empty function called `hello` like this...
+You will have all the skills necessary to do this kata. Once navigating to the page you will find an empty function called `mouthSize` like this...
 
 ```js
 function mouthSize(animal) {
